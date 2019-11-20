@@ -26,5 +26,3 @@ class Formatter {
     return result.join( " " );
   }
 }
-  //add static methods here
-}
